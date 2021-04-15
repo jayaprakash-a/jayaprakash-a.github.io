@@ -1,0 +1,7 @@
+baseURL = "https://jayaprakash-a.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Test Site"
+theme = ["personal-web"]
+themesDir = "themes"
+
+publishDir = "docs"
