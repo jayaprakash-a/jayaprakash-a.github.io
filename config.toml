@@ -1,7 +1,78 @@
 baseURL = "https://jayaprakash-a.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Test Site"
+title = "Jayaprakash Akula"
 theme = ["personal-web"]
 themesDir = "themes"
 
 publishDir = "docs"
+
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Hi, I'm Jayaprakash Akula :wave:"
+  sub = "I'm a ML enthusiast"
+
+[params.main]
+  latestPublishHeader = "My Latest Project"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/jayaprakash.jpg" # - default "/images/jayaprakash.jpg"
+
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/"
+  twitter = "https://twitter.com/"
+  linkedin = "https://www.linkedin.com/in/"
+  facebook = "https://www.facebook.com/"
+  instagram = "https://www.instagram.com/"
+
+
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+
+
+
+[params.contact]
+  email = "akulajayaprakash [at] gmail [dot] com"
+  text= "Hi ping me" # text of the contact link in the sidebar. If email params.contact.email is defined
