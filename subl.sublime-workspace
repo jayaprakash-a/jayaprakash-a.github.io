@@ -1,0 +1,1281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"train_reviews"
+			],
+			[
+				"num",
+				"num_cols"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"vali",
+				"valid_acc"
+			],
+			[
+				"pred",
+				"prediction"
+			],
+			[
+				"test_",
+				"test_iterator"
+			],
+			[
+				"is",
+				"is_train"
+			],
+			[
+				"tr",
+				"train_data"
+			],
+			[
+				"t",
+				"train_dataset"
+			],
+			[
+				"tex",
+				"text_lengths"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"s",
+				"shape"
+			],
+			[
+				"pac",
+				"packed_output"
+			],
+			[
+				"te",
+				"text_lengths"
+			],
+			[
+				"Tur",
+				"True"
+			],
+			[
+				"ba",
+				"batch_text"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"emb",
+				"embedding_dim"
+			],
+			[
+				"input",
+				"input_dim"
+			],
+			[
+				"H",
+				"Head"
+			],
+			[
+				"Coun",
+				"Count1"
+			],
+			[
+				"C",
+				"Count1"
+			],
+			[
+				"Lit",
+				"Literal"
+			],
+			[
+				"Cl",
+				"ClausesTail"
+			],
+			[
+				"Liter",
+				"Literal"
+			],
+			[
+				"Li",
+				"LiteralList"
+			],
+			[
+				"L",
+				"LiteralTail"
+			],
+			[
+				"selec",
+				"selectFreqAtmostK"
+			],
+			[
+				"Ne",
+				"NegLiterals"
+			],
+			[
+				"Lite",
+				"Literal"
+			],
+			[
+				"Neg",
+				"NegLiterals"
+			],
+			[
+				"Nega",
+				"NegLiterals2"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"e",
+				"epoch_loss"
+			],
+			[
+				"a",
+				"aud_ground"
+			],
+			[
+				"vi",
+				"vid_ground"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"In",
+				"IndexVal"
+			],
+			[
+				"S",
+				"SumVal1"
+			],
+			[
+				"Sum",
+				"SumVal"
+			],
+			[
+				"ta",
+				"Tail"
+			],
+			[
+				"l",
+				"lDiaSum_helper"
+			],
+			[
+				"li",
+				"lDiaSum_helper"
+			],
+			[
+				"ma",
+				"MaxSum"
+			],
+			[
+				"Mo",
+				"ModNAscii"
+			],
+			[
+				"N",
+				"NAscii"
+			],
+			[
+				"bo",
+				"boxes"
+			],
+			[
+				"o",
+				"outFile"
+			],
+			[
+				"Bo",
+				"BoxLocs"
+			],
+			[
+				"A",
+				"Amount"
+			],
+			[
+				"n",
+				"nwaysHelper"
+			],
+			[
+				"c",
+				"createList"
+			],
+			[
+				"COu",
+				"CountHead"
+			],
+			[
+				"Am",
+				"Amount"
+			],
+			[
+				"Cou",
+				"CountHead"
+			],
+			[
+				"Re",
+				"Remain"
+			],
+			[
+				"Rema",
+				"RemainSum"
+			],
+			[
+				"Su",
+				"SumVal"
+			],
+			[
+				"freq",
+				"freqGreaterThanK"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"cla",
+				"classMapping"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"hide",
+				"hidden_dim"
+			],
+			[
+				"hi",
+				"hidden_dim"
+			],
+			[
+				"eme",
+				"embedding_dim"
+			],
+			[
+				"em",
+				"embedding_dim"
+			],
+			[
+				"tok",
+				"tokens"
+			],
+			[
+				"un",
+				"unsqueeze"
+			],
+			[
+				"toke",
+				"tokencount"
+			],
+			[
+				"Tens",
+				"TensorDataset"
+			],
+			[
+				"train_t",
+				"train_textData"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"train",
+				"train_iterator"
+			],
+			[
+				"exa",
+				"example"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"len",
+				"lengths"
+			],
+			[
+				"f",
+				"forward"
+			],
+			[
+				"per",
+				"permute"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"tes",
+				"test_data"
+			],
+			[
+				"aud",
+				"audFile"
+			],
+			[
+				"pa",
+				"panic"
+			],
+			[
+				"vid",
+				"vidHash"
+			],
+			[
+				"tx",
+				"txtName"
+			],
+			[
+				"txt",
+				"txtHash"
+			],
+			[
+				"MA",
+				"MARATHI"
+			],
+			[
+				"vidAb",
+				"vidAbsentSet"
+			],
+			[
+				"in",
+				"inpFile"
+			],
+			[
+				"cap",
+				"capMv"
+			],
+			[
+				"ru",
+				"run_bash"
+			],
+			[
+				"lan",
+				"lang"
+			],
+			[
+				"inp",
+				"inpFile"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"down",
+				"downloads"
+			],
+			[
+				"an",
+				"annotation"
+			],
+			[
+				"re",
+				"review"
+			],
+			[
+				"csv",
+				"csvFileName"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"Quer",
+				"QueryForm"
+			],
+			[
+				"ra",
+				"ratings"
+			],
+			[
+				"rev",
+				"reviews"
+			],
+			[
+				"pl",
+				"plain_reviews"
+			],
+			[
+				"sp",
+				"spell_check"
+			],
+			[
+				"revi",
+				"review"
+			],
+			[
+				"max",
+				"maxIndex"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"weig",
+				"weights_matrix"
+			],
+			[
+				"wei",
+				"weights_matrix"
+			],
+			[
+				"mo",
+				"mod_one_hot"
+			],
+			[
+				"one",
+				"one_hot"
+			],
+			[
+				"on",
+				"one_hot"
+			],
+			[
+				"top",
+				"top_class"
+			],
+			[
+				"ou",
+				"output_custom"
+			],
+			[
+				"fa",
+				"factor_helper"
+			],
+			[
+				"review",
+				"reviews"
+			],
+			[
+				"Row",
+				"Rows"
+			],
+			[
+				"r",
+				"Rows"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"pick",
+				"pickle_files"
+			],
+			[
+				"ca",
+				"candidates_sentences"
+			],
+			[
+				"base",
+				"base_dataset"
+			],
+			[
+				"com",
+				"completeSet"
+			],
+			[
+				"pickl",
+				"pickle_files"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"score",
+				"score_temp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content/projects/bachelor_thesis.md",
+			"settings":
+			{
+				"buffer_size": 3726,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/projects/Iexceed_intern.md",
+			"settings":
+			{
+				"buffer_size": 3701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/publications/_index.md",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 2130,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/publications/interspeech2020.md",
+			"settings":
+			{
+				"buffer_size": 2245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layouts/partials/publications/information.html",
+			"settings":
+			{
+				"buffer_size": 349,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/publications/list.html",
+			"settings":
+			{
+				"buffer_size": 246,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/publications/single.html",
+			"settings":
+			{
+				"buffer_size": 131,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/projects/IITB_intern.md",
+			"settings":
+			{
+				"buffer_size": 3701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/projects/IITB_RnD.md",
+			"settings":
+			{
+				"buffer_size": 3759,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/projects/masters_thesis.md",
+			"settings":
+			{
+				"buffer_size": 3711,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Preferences: Key Bindings"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Pretty JSON: Validate"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/publications",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/_default",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/designs",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/head",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/portfolio",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/post",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/projects",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/publications",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/portfolio",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/post",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/projects",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/publications",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/shortcodes",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/techs",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/archetypes",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/assets",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/resources",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/resources/_gen",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/resources/_gen/assets",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/resources/_gen/assets/css",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/resources/_gen/assets/sass",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/resources/_gen/assets/sass/sass"
+	],
+	"file_history":
+	[
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/publications/interspeech2020.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/Iexceed_intern.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/IITB_RnD.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/IITB_intern.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/masters_thesis.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/projects/item.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/projects/information.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/partials/post/item.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/exampleSite/content/post/archetypes.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/projects/single.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/layouts/projects/list.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/bachelor_thesis.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/config.toml",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/_index.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/about/index.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/docs/index.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/about/index.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/_index.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/personal-web/exampleSite/content/post/_index.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/IITB_intern.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/Iexceed_intern.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/bachelor_thesis.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/themes/personal-web/archetypes/default.md",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/btp.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/mtp.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/content/projects/intern1.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/jayaprakash_a/config.toml",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/themes/personal-web/layouts/index.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/config.toml",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/.github/workflows/gh-pages.yml",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/themes/personal-web/layouts/post/single.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/content/home/index.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/content/index.html",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/themes/personal-web/exampleSite/config.toml",
+		"/C/Users/akula/OneDrive/Documents/GitHub/jayaprakash-a.github.io/personal_webpage/content/_index.html",
+		"/C/Users/akula/AppData/Local/Temp/scp00175/home/abhishek/cs772/Ass4/fine-grained-sentiment/environment.yml",
+		"/C/Users/akula/AppData/Local/Temp/scp55575/home/abhishek/cs772/Ass4/fine-grained-sentiment/data/sst/train_mod.csv",
+		"/C/Users/akula/AppData/Local/Temp/scp34082/home/jayaprakash/cs772/Ass4/fine-grained-sentiment/predictor.py",
+		"/F/Desktop/IITB/Sem4/CS772/Assignments/Ass2/gold_test.csv",
+		"/C/Users/akula/OneDrive/Desktop/Files/Sublime",
+		"/C/Users/akula/OneDrive/Desktop/Text",
+		"/C/Users/akula/OneDrive/Desktop/3/sublime_text.exe",
+		"/C/Users/akula/AppData/Local/Temp/scp01222/home/jayaprakash/cs772/Ass4/train_mod.csv",
+		"/F/Desktop/IITB/Sem4/CS772/Assignments/Ass2/modify.py",
+		"/C/Users/akula/AppData/Local/Temp/scp54871/home/jayaprakash/cs772/Assign2_config/assign1_FFNN_1.py",
+		"/F/Desktop/IITB/Sem4/CS772/Assignments/Ass2/train.csv",
+		"/F/Desktop/IITB/Sem4/CS772/Assignments/Ass2/assign1_FFNN_weighted_glove_0.py",
+		"/F/Desktop/IITB/Sem4/CS772/Assignments/Ass2/assign1_final.py",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/grids/prologGrid1.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/sokoban/sokoban/temp.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/grids/newGrid2.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/sokoban/sokoban/sokoban.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/sokoban/sokoban/level_fail.pl",
+		"/C/Users/akula/OneDrive/Documents/Sokoban/Sokoban YASC/Lisp Scripts/Plugins/Sokolution.lsp",
+		"/C/Users/akula/OneDrive/Documents/Sokoban/Sokoban YASC/Lisp Scripts/Plugins/JSoko Optimizer.lsp",
+		"/C/Users/akula/OneDrive/Documents/Sokoban/Sokoban YASC/Lisp Scripts/Plugins/Festival.lsp",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/sokoban/sokoban/game.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/paper_code.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/bgr.sh",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/sokoban/sokoban/level1.pl",
+		"/F/Desktop/index.html",
+		"/C/Users/akula/AppData/Local/Temp/scp00379/home/abhishek/cs772/Ass2/pytorch-sentiment-analysis/5 - Multi-class Sentiment Analysis.py",
+		"/C/Users/akula/OneDrive/Documents/GitHub/index.html",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/grids/newGrid1.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/ConvertToPrologGrid.py",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/grids/prologGrid2.pl",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/sokoban_grids.txt",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/grids/prologGrid106.pl",
+		"/F/Desktop/IITB/Sem4/CS621/Assignments/bgr.sh",
+		"/C/Users/akula/AppData/Local/Temp/scp14288/home/abhishek/cs772/GUI/main/forms.py",
+		"/C/Users/akula/AppData/Local/Temp/scp35925/home/abhishek/cs772/Assign2_config/temp_bert.py",
+		"/F/Desktop/IITB/Sem4/CS621/project/Large Test Suite/Large Test Suite Sets/XSokoban_90.xsb",
+		"/C/Users/akula/AppData/Local/Temp/scp35215/home/abhishek/cs772/Assign2_config/assign3_bi_lstm_glove.py",
+		"/C/Program Files (x86)/WinSCP/3/sublime_text.exe",
+		"/C/Program Files (x86)/WinSCP/Text",
+		"/C/Users/akula/AppData/Local/Temp/scp03796/home/abhishek/cs772/Assign2_config/assign3.py",
+		"/C/Program Files (x86)/WinSCP/Files/Sublime",
+		"/F/Desktop/IITB/Sem4/CS621/project/CS621-Project/paper_code_new.pl",
+		"/C/Users/akula/AppData/Local/Temp/scp03571/home/abhishek/cs772/Assign2_config/assign3_bi_lstm_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp56529/home/abhishek/cs772/Assign2_config/run_all.sh",
+		"/C/Users/akula/AppData/Local/Temp/scp04924/home/abhishek/cs772/Assign2_config/assign3_rnn_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp19876/home/abhishek/cs772/Assign2_config/assign3_rnn_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp06938/home/abhishek/cs772/Assign2_config/assign3_lstm_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp45318/home/abhishek/cs772/Assign2_config/assign3_lstm_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp05639/home/abhishek/cs772/Assign2_config/assign3_gru_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp05999/home/abhishek/cs772/Assign2_config/assign3_gru_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp46446/home/abhishek/cs772/Assign2_config/assign3_bi_lstm_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp44856/home/abhishek/cs772/Assign2_config/assign3_bi_lstm_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp40831/home/abhishek/cs772/Assign2_config/temp_bert.py",
+		"/C/Users/akula/AppData/Local/Temp/scp04319/home/abhishek/cs772/Assign2_config/assign3_bi_gru_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp04844/home/abhishek/cs772/Assign2_config/assign3_bi_gru_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp11193/home/abhishek/cs772/nlp-text-emotion/bert.py",
+		"/C/Users/akula/AppData/Local/Temp/scp43457/home/abhishek/cs772/Assign2_config/assign3.py",
+		"/C/Users/akula/AppData/Local/Temp/scp13881/home/abhishek/cs772/GUI/main/glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp12270/home/abhishek/cs772/GUI/main/best.py",
+		"/C/Users/akula/AppData/Local/Temp/scp54200/home/abhishek/cs772/Assign2_config/README.txt",
+		"/C/Users/akula/AppData/Local/Temp/scp35551/home/abhishek/cs772/Assign2_config/assign1_final.py",
+		"/F/Desktop/IITB/Sem4/CS772/Assignments/203050025_193050044_193050050/203050025_193050044_193050050/assign2.py",
+		"/C/Users/akula/AppData/Local/Temp/scp12289/home/abhishek/cs772/GUI/Data and ML model/ml_model.py",
+		"/C/Users/akula/AppData/Local/Temp/scp26141/home/audio-visual/I2P/model/relevance.py",
+		"/C/Users/akula/AppData/Local/Temp/scp42770/home/abhishek/cs772/Assign2_config/assign3_final.py",
+		"/C/Users/akula/AppData/Local/Temp/scp35271/home/abhishek/cs772/Assignment1_Resources/assign2_lstm_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp17216/home/abhishek/cs772/Ass2/pytorch-sentiment-analysis/3 - Faster Sentiment Analysis.py",
+		"/C/Users/akula/AppData/Local/Temp/scp34276/home/abhishek/cs772/Assign2_config/assign3_gru_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp16262/home/abhishek/cs772/Assign2_config/assign3_lstm_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp59643/home/abhishek/cs772/Assign2_config/assign3_bi_lstm_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp23037/home/abhishek/cs772/Ass2/pytorch-sentiment-analysis/2 - Upgraded Sentiment Analysis.py",
+		"/C/Users/akula/OneDrive/Desktop/temp.py",
+		"/C/Users/akula/AppData/Local/Temp/scp18300/home/abhishek/cs772/Assign2_config/assign3_lstm_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp22912/home/abhishek/cs772/Assign2_config/assign1_FFNN_1.py",
+		"/C/Users/akula/AppData/Local/Temp/scp22359/home/abhishek/cs772/Assign2_config/assign3_bi_gru_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp50657/home/abhishek/cs772/Assign2_config/assign3_gru_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp57677/home/abhishek/cs772/Assign2_config/assign3_bi_gru_none.py",
+		"/C/Users/akula/AppData/Local/Temp/scp54672/home/abhishek/cs772/Ass2/pytorch-sentiment-analysis/1 - Simple Sentiment Analysis.py",
+		"/C/Users/akula/AppData/Local/Temp/scp31860/home/abhishek/cs772/Assign2_config/bert_bi_gru.py",
+		"/C/Users/akula/AppData/Local/Temp/scp31784/home/abhishek/cs772/Assign2_config/assign1_FFNN_weighted_w2v_2_sig.py",
+		"/C/Users/akula/AppData/Local/Temp/scp23216/home/abhishek/cs772/Assign2_config/nohup.out",
+		"/C/Users/akula/AppData/Local/Temp/scp47006/home/abhishek/cs772/Assign2_config/temp_bert.py",
+		"/C/Users/akula/AppData/Local/Temp/scp02682/home/abhishek/cs772/Assign2_config/assign1_FFNN_weighted_glove_1.py",
+		"/C/Users/akula/AppData/Local/Temp/scp02017/home/abhishek/cs772/Assign2_config/assign3_bi_gru_glove.py",
+		"/C/Users/akula/AppData/Local/Temp/scp51949/home/abhishek/cs772/Assign2_config/bert_bi_gru.py",
+		"/C/Users/akula/AppData/Local/Temp/scp54719/home/abhishek/cs772/Assign2_config/assign1_final.py",
+		"/C/Users/akula/AppData/Local/Temp/scp02589/home/abhishek/cs772/Assign2_config/assign1_FFNN_weighted_glove_0.py",
+		"/C/Users/akula/AppData/Local/Temp/scp47006/home/abhishek/cs772/Assign2_config/bert_bi_gru.py",
+		"/C/Users/akula/AppData/Local/Temp/scp49925/home/abhishek/cs772/Assign2_config/temporary.py",
+		"/F/Desktop/IITB/MTP/Audio-Focussed-Multi-Modal/Ideas/README.md",
+		"/F/Desktop/IITB/MTP/Audio-Focussed-Multi-Modal/Code/README.md",
+		"/F/Desktop/IITB/MTP/Audio-Focussed-Multi-Modal/.gitignore"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"read"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\akula\\OneDrive\\Documents\\GitHub\\jayaprakash-a.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content/projects/bachelor_thesis.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/projects/Iexceed_intern.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/publications/_index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1905,
+								1905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/publications/interspeech2020.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "layouts/partials/publications/information.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "layouts/publications/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "layouts/publications/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "content/projects/IITB_intern.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "content/projects/IITB_RnD.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "content/projects/masters_thesis.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

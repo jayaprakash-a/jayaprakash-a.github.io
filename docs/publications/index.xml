@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Jayaprakash Akula</title>
+    <link>https://jayaprakash-a.github.io/publications/</link>
+    <description>Recent content in Publications on Jayaprakash Akula</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 19:25:30 +0200</lastBuildDate><atom:link href="https://jayaprakash-a.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caption Alignment for Low Resource Audio-Visual Data</title>
+      <link>https://jayaprakash-a.github.io/publications/interspeech2020/</link>
+      <pubDate>Fri, 25 Oct 2019 19:25:30 +0200</pubDate>
+      
+      <guid>https://jayaprakash-a.github.io/publications/interspeech2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Brief Abstract:&lt;/strong&gt; Understanding videos via captioning has gained a lot of traction recently.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

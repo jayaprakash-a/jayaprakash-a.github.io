@@ -1,0 +1,19 @@
+<style type="text/css">
+	.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 0px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+<div class="grid-container">
+  <div class="grid-item"> <a href={{ index .Params 0 }}>Github Code</a></div>
+  <div class="grid-item"> <a href={{ index .Params 1 }}>Paper Link</a></div>
+  <div class="grid-item"> <a href={{ index .Params 2 }}>Slides</a></div>  
+</div>

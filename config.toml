@@ -13,11 +13,11 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Jayaprakash Akula :wave:"
+  main = "Hi, I'm Jayaprakash:wave:"
   sub = "I'm a ML enthusiast"
 
 [params.main]
-  latestPublishHeader = "My Latest Project"
+  latestPublishHeader = "Welcome to my webpage!!"
 
 [taxonomies]
   design = "designs"
@@ -52,12 +52,12 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  facebook = "https://www.facebook.com/"
-  instagram = "https://www.instagram.com/"
-
+  github = "https://github.com/jayaprakash-a/"
+  twitter = "https://twitter.com/pra_jaya"
+  linkedin = "https://www.linkedin.com/in/jayaprakash-akula-b40444126/"
+  facebook = "https://www.facebook.com/jayaprakash.akula/"
+  instagram = "https://www.instagram.com/jayaprakash_a/"
+  mail = "mailto:akulajayaprakash [at] gmail [dot] com"
 
 
 
@@ -70,9 +70,30 @@ pygmentsCodeFences=true
   url = "/about/"
   weight = -120
 
+[[menu.main]]
+  identifier = "education"
+  name = "Education"
+  title = "Education"
+  url = "/education/"
+  weight = -120
 
+[[menu.main]]
+  identifier = "internships"
+  name = "My internships"
+  title = "Experience section"
+  url = "/internships/"
+  weight = -120
 
+[[menu.main]]
+  identifier = "projects"
+  name = "My projects"
+  title = "Projects section"
+  url = "/projects/"
+  weight = -120
 
-[params.contact]
-  email = "akulajayaprakash [at] gmail [dot] com"
-  text= "Hi ping me" # text of the contact link in the sidebar. If email params.contact.email is defined
+[[menu.main]]
+  identifier = "publications"
+  name = "My publications"
+  title = "Publications section"
+  url = "/publications/"
+  weight = -120
