@@ -7,9 +7,9 @@ date: "2021-04-30T19:25:30+02:00"
 publishDate: "2021-04-30T19:25:30+02:00"
 ---
 
-Start about master thesis
-
+The thesis has revolved around multi-modal learning and how self-supervised objectives learn better embeddings. 
 <!--more-->
+During the thesis work, we had explored video-caption retrieval tasks, novel audio-visual video parsing task. We explain and critic various related works and propose new models for improvements.
 
 #### **Responsibilities :**
 

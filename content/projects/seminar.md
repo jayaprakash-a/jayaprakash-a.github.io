@@ -7,9 +7,10 @@ date: "2020-05-31T19:25:30+02:00"
 publishDate: "2020-05-31T19:25:30+02:00"
 ---
 
-Start about seminar
+The seminar has focused around multi-modal learning and how self-supervised objectives learn better embeddings. 
 
 <!--more-->
+In this work, we learn and critique various self-supervised learning techniques.
 
 
 #### **Responsibilities :**

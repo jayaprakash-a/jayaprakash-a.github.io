@@ -7,10 +7,10 @@ date: "2019-04-30T19:25:30+02:00"
 publishDate: "2019-04-30T19:25:30+02:00"
 ---
 
-Start about bachelor thesis
-
+I have worked on developing a robust and open-source ride dispatch application. 
 
 <!--more-->
+The main intention behind this project to make personalised ride sharing platform for internal use in either organisation or any remote villages. Currently the project supports only Android devices.
 
 #### **Responsibilities :**
 

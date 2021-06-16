@@ -6,9 +6,9 @@ guidance: Prof. Ganesh Ramakrishnan
 date: "2020-05-31T19:25:30+02:00"
 publishDate: "2020-05-31T19:25:30+02:00"
 ---
-Start about IITB RnD
-
+In this project I along with my research group have explored various audio encoders. 
 <!--more-->
+The findings of the project has helped improve state-of-the-art results on multi-modal video captioning.
 
 #### **Responsibilities :**
 
