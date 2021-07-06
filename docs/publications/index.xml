@@ -6,7 +6,16 @@
     <description>Recent content in Publications on Jayaprakash Akula</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Oct 2019 19:25:30 +0200</lastBuildDate><atom:link href="https://jayaprakash-a.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jul 2021 00:25:30 +0200</lastBuildDate><atom:link href="https://jayaprakash-a.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-Modal learning for Audio-Visual Video Parsing</title>
+      <link>https://jayaprakash-a.github.io/publications/interspeech2021/</link>
+      <pubDate>Tue, 06 Jul 2021 00:25:30 +0200</pubDate>
+      
+      <guid>https://jayaprakash-a.github.io/publications/interspeech2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Brief Abstract:&lt;/strong&gt; In this paper, we present a novel approach to the audio-visual video parsing (AVVP) task that demarcates events from a video separately for audio and visual modalities.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Caption Alignment for Low Resource Audio-Visual Data</title>
       <link>https://jayaprakash-a.github.io/publications/interspeech2020/</link>

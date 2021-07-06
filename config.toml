@@ -14,7 +14,6 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Jayaprakash:wave:"
-  sub = "I'm a ML enthusiast"
 
 [params.main]
   latestPublishHeader = "Welcome to my webpage!!"
@@ -55,9 +54,10 @@ pygmentsCodeFences=true
   github = "https://github.com/jayaprakash-a/"
   twitter = "https://twitter.com/"
   linkedin = "https://www.linkedin.com/in/jayaprakash-akula-b40444126/"
-  facebook = "https://www.facebook.com//"
-  instagram = "https://www.instagram.com//"
+  facebook = "https://www.facebook.com/"
+  instagram = "https://www.instagram.com/"
   mail = "mailto:akulajayaprakash [at] gmail [dot] com"
+  leetcode = "https://leetcode.com/jayaprakash_a/"
 
 
 
