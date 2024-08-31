@@ -1,0 +1,16 @@
+<div class="post-container">
+  <h3>
+    <a href="{{.Permalink}}">{{ .Title }}</a>
+  </h3>
+  <p style="text-align:left;">
+    <b>{{.Params.organisation}}</b>
+    <span style="float:right;">
+        <b>{{.Params.timeline}}</b>
+    </span>
+  </p>
+  <p>{{ .Summary }}</p>
+  <div class="read-more">
+    <a alt="{{.Title}}" href="{{.Permalink}}" />{{ partial "svg" (dict "iconName" "read" "size" "18px")}}
+    Read more</a>
+  </div>
+</div>

@@ -3,6 +3,7 @@ title: "Chat bot and Voice banking service"
 description: Developed a python based chat bot for banking purpose, also speech recognition models for voice banking
 timeline: May 2018 to Jul 2018
 guidance: Mr. Balachandra
+organisation: I-Exceed Technology Solutions Private Limited
 date: "2018-05-31T19:25:30+02:00"
 publishDate: "2018-05-31T19:25:30+02:00"
 ---

@@ -17,7 +17,7 @@ pygmentsCodeFences=true
 
 [params.main]
   latestPublishHeader = "Welcome to my webpage!!"
-
+  latestIntro = "Hey! My name is Jayaprakash Akula and I am a Computer Vision Engineer. I am Computer Science post-graduate from Indian Institute of Technology, Bombay with my thesis in multi-modal learning area. I graduated from the Indian Institute of Technology, Bombay in 2019 with a Bachelor's Degree in Computer Science and Engineering. I am a decent coder and programmer."
 [taxonomies]
   design = "designs"
   tech = "techs"
@@ -48,14 +48,11 @@ pygmentsCodeFences=true
 
 [params.assets]
   favicon = ""
-  customCSS = ""
+  customCSS = "/assets/css/styles.css"
 
 [params.social]
   github = "https://github.com/jayaprakash-a/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/jayaprakash-akula-b40444126/"
-  facebook = "https://www.facebook.com/"
-  instagram = "https://www.instagram.com/"
+  linkedin = "https://www.linkedin.com/in/jayaprakash-akula/"
   mail = "mailto:akulajayaprakash [at] gmail [dot] com"
   leetcode = "https://leetcode.com/jayaprakash_a/"
 
@@ -65,9 +62,9 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
+  name = "About me"
+  title = "About me"
+  url = "/"
   weight = -120
 
 [[menu.main]]
@@ -78,22 +75,29 @@ pygmentsCodeFences=true
   weight = -120
 
 [[menu.main]]
-  identifier = "internships"
-  name = "My internships"
+  identifier = "work"
+  name = "Work experience"
   title = "Experience section"
+  url = "/work/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "internships"
+  name = "Internship experience"
+  title = "Interships section"
   url = "/internships/"
   weight = -120
 
 [[menu.main]]
   identifier = "projects"
-  name = "My projects"
+  name = "Projects"
   title = "Projects section"
   url = "/projects/"
   weight = -120
 
 [[menu.main]]
   identifier = "publications"
-  name = "My publications"
+  name = "Publications"
   title = "Publications section"
   url = "/publications/"
   weight = -120

@@ -3,6 +3,7 @@ title: "FOSSEE Summer Internship"
 description: How the Archetypes are defined
 timeline: May 2017 to July 2017
 guidance: Mrs. Deepti Ghosalkar
+organisation: Indian Institute of Technology Bombay
 date: "2017-05-31T19:25:30+02:00"
 publishDate: "2017-05-31T19:25:30+02:00"
 ---

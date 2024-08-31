@@ -1,0 +1,11 @@
+{{ partial "header" .}}
+
+  {{ .Content }}
+
+  <div class="work-list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+      {{ partial "work/item" .}}
+    {{ end }}
+  </div>
+
+{{ partial "footer" .}}

@@ -4,35 +4,37 @@
     <title>Publications on Jayaprakash Akula</title>
     <link>https://jayaprakash-a.github.io/publications/</link>
     <description>Recent content in Publications on Jayaprakash Akula</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jul 2021 19:25:30 +0200</lastBuildDate><atom:link href="https://jayaprakash-a.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 19:25:30 +0200</lastBuildDate>
+    <atom:link href="https://jayaprakash-a.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posture Guided Human Action Recognition for Fitness Applications</title>
+      <link>https://jayaprakash-a.github.io/publications/icvgip2022/</link>
+      <pubDate>Thu, 08 Dec 2022 19:25:30 +0200</pubDate>
+      <guid>https://jayaprakash-a.github.io/publications/icvgip2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Brief Abstract:&lt;/strong&gt; Multi-stage deep learning based method for action recognition to predict upright as well as non-upright actions with high accuracy&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cross Lingual Video and Text Retrieval: A New Benchmark Dataset and Algorithm</title>
       <link>https://jayaprakash-a.github.io/publications/icmi2021/</link>
       <pubDate>Wed, 28 Jul 2021 19:25:30 +0200</pubDate>
-      
       <guid>https://jayaprakash-a.github.io/publications/icmi2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Brief Abstract:&lt;/strong&gt; Video retrieval using natural language queries requires learning semantically meaningful joint embeddings between the text and the audio-visual input.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cross-Modal learning for Audio-Visual Video Parsing</title>
       <link>https://jayaprakash-a.github.io/publications/interspeech2021/</link>
       <pubDate>Tue, 06 Jul 2021 00:25:30 +0200</pubDate>
-      
       <guid>https://jayaprakash-a.github.io/publications/interspeech2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Brief Abstract:&lt;/strong&gt; In this paper, we present a novel approach to the audio-visual video parsing (AVVP) task that demarcates events from a video separately for audio and visual modalities.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Caption Alignment for Low Resource Audio-Visual Data</title>
       <link>https://jayaprakash-a.github.io/publications/interspeech2020/</link>
       <pubDate>Fri, 25 Oct 2019 19:25:30 +0200</pubDate>
-      
       <guid>https://jayaprakash-a.github.io/publications/interspeech2020/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Brief Abstract:&lt;/strong&gt; Understanding videos via captioning has gained a lot of traction recently.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
