@@ -1,7 +1,7 @@
 const portfolioData = {
   hero: {
     title: "",
-    subtitle: "Hey! My name is Jayaprakash Akula and I am a Computer Vision Engineer. I am a Computer Science post-graduate from Indian Institute of Technology, Bombay with my thesis in multi-modal learning area. I graduated from the Indian Institute of Technology, Bombay in 2019 with a Bachelor's Degree in Computer Science and Engineering. I am a decent coder and programmer."
+    subtitle: "Hey! I’m Jayaprakash Akula, a Computer Vision Engineer at Samsung Research Institute in Bangalore, where I work on interaction systems and methods for XR devices. I did my post-grad in Computer Science from IIT Bombay in 2021, focusing on multi-modal learning for my thesis. Before that, I completed my Bachelor’s in Computer Science and Engineering from IIT Palakkad in 2019. I enjoy coding and I’m really into machine learning."
   },
   gallery: [
     { title: "Work", image: "images/work.png", link: "#experience" },
@@ -126,7 +126,7 @@ const portfolioData = {
     {
       title: "Top-performer incentive",
       meta: "Samsung Research Institute Bangalore",
-      description: "Recognised as core-staff member of Samsung Research Bangalore (awarded to less than 0.1%people)."
+      description: "Recognised as core-staff member of Samsung Research Bangalore (awarded to less than 5% people)."
     },
 
   ]
