@@ -1,9 +1,0 @@
-{{ partial "header" .}}
-
-  {{ .Content }}
-
-  {{ range .Pages.ByDate.Reverse }}
-    {{ partial "portfolio/item" .}}
-  {{ end }}
-
-{{ partial "footer" .}}
